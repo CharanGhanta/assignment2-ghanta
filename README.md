@@ -1,1 +1,5 @@
 # assignment2-ghanta
+# SAI CHARAN GHANTA
+##### vizag
+Vizag, also known as ***Visakhapatnam*** is the largest city and the proposed administrative capital of the Indian state of Andhra Pradesh.It is also the most populated city of the state. It lies between the Eastern Ghats and the coast of the Bay of Bengal.It is the second largest city in the east coast of India after Chennai and also the fourth largest city in South India. It is one of the four smart cities of Andhra Pradesh selected under Smart Cities Mission.
+It also serves as the headquarters of Visakhapatnam district.With an estimated output of $43.5 billion, the city is the ***ninth largest contributor to India's overall Gross domestic product as of 2016***.In 2020, Visakhapatnam emerged as the finalist in the World Smart City Awards under Living and Inclusion category.
