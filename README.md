@@ -13,6 +13,8 @@ It also serves as the headquarters of Visakhapatnam district.With an estimated o
 2. Catch a flight from Kansas city to Washington
 3. Then connecting flight from Washington to Delhi
 4. Flight from Delhi to Vizag
+    1. If connecting flight is missed, Book a new flight from Delhi to Vizag 
+    2. We Can travel via Road or Railway Transport
 5. Reached my favourite place
 
 - Currency
