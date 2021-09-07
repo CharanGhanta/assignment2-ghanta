@@ -33,12 +33,12 @@ It also serves as the headquarters of Visakhapatnam district.With an estimated o
 
 ### Markdown Tables are used to represent food and drinks
 
-| Food Items | Locality | | Price |  
-| :---: | :---: | | :---: |  
-| Bamboo Chicken | Araku | | $10 |  
-| Madugula Halwa | Madugula | | $6 |  
-| Chicken maggi | Rushikonda | | $3 |  
-| Grilled Kebabs | RK beach | | $5 |  
+| Food Items | Locality | Price |  
+| :---: | :---: | :---: |  
+| Bamboo Chicken | Araku | $10 |  
+| Madugula Halwa | Madugula | $6 |  
+| Chicken maggi | Rushikonda | $3 |  
+| Grilled Kebabs | RK beach | $5 |  
 
 ***
 
