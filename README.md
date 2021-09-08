@@ -27,3 +27,6 @@ It also serves as the headquarters of Visakhapatnam district.With an estimated o
 - Famous restaurants
 - Navigation routes to Historic places and beaches
 
+![Image](vizag.jpg)
+
+[Click this link to open my Aboutme File](https://github.com/CharanGhanta/assignment2-ghanta/blob/a131eab0e013c87dceaf6b93e65fc7839e228c0d/AboutMe.md)
