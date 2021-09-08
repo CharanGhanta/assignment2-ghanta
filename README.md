@@ -62,7 +62,6 @@ It also serves as the headquarters of Visakhapatnam district.With an estimated o
 
 [Link](https://cp-algorithms.com/geometry/basic-geometry.html)
 
-[Link](https://cp-algorithms.com/geometry/basic-geometry.html)
 
 ftype dot(point2d a, point2d b) {  
     return a.x * b.x + a.y * b.y;  
@@ -73,7 +72,7 @@ ftype dot(point3d a, point3d b) {
 
 
 
+[Link](https://cp-algorithms.com/geometry/basic-geometry.html)
 
 
 
-[Click on this to open my Image file](vizag.jpg)
