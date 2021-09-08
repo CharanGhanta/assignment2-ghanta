@@ -58,9 +58,9 @@ It also serves as the headquarters of Visakhapatnam district.With an estimated o
 
 ### Code Fencing
 
-> The dot (or scalar) product a⋅b for vectors a and b can be defined in two identical ways. Geometrically it is product of the length of the first vector by the length of the projection of the second vector onto the first one. As you may see from the image below this projection is nothing but |a|cosθ where θ is the angle between a and b. Thus a⋅b=|a|cosθ⋅|b|.
+The dot product (also called the scalar product) gives us the angle between any two vectors. It's one of the most important relationships between vectors. In this section we'll define the dot product and show how it gives the angle between vectors for two- and three-dimensional vectors.
 
-[Link](https://cp-algorithms.com/geometry/basic-geometry.html)
+[Link](https://xaktly.com/DotProduct.html)
 
 
 ftype dot(point2d a, point2d b) {  
