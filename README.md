@@ -60,7 +60,7 @@ It also serves as the headquarters of Visakhapatnam district.With an estimated o
 
 The dot product (also called the scalar product) gives us the angle between any two vectors. It's one of the most important relationships between vectors. In this section we'll define the dot product and show how it gives the angle between vectors for two- and three-dimensional vectors.
 
-[Link](https://xaktly.com/DotProduct.html)
+[Click on this link to find more info about dot product](https://xaktly.com/DotProduct.html)
 
 
 ftype dot(point2d a, point2d b) {  
@@ -72,7 +72,7 @@ ftype dot(point3d a, point3d b) {
 
 
 
-[Link](https://cp-algorithms.com/geometry/basic-geometry.html)
+[Link to view the code](https://cp-algorithms.com/geometry/basic-geometry.html)
 
 
 
